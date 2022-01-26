@@ -10,4 +10,4 @@ This cool project take me 2 years to finish
 ## Client (Raspberry pi)
 ## Arduino
 
-### Good luck reading those code
+### Good luck reading and understanding those code
