@@ -3,7 +3,7 @@ This cool project take me 2 years to finish
 
 # What i got from this project
 ## Skill
-## Alot of price
+## Alot of prize
 
 # There is 3 main parts
 ## Server
