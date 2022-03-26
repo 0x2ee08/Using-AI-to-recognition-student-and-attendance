@@ -5,7 +5,7 @@ This cool project take me 2 years to finish
 ## Skill
 ## Alot of prize
 
-# There is 3 main parts
+# There are 3 main parts
 ## Server
 ## Client (Raspberry pi)
 ## Arduino
